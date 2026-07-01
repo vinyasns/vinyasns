@@ -1,10 +1,10 @@
 Hey, I'm Vinyas.
 
-I work on distributed control-plane systems at Oracle — mostly fault-domain-aware rollout pipelines and fleet health for SmartNICs and network switches, at a scale where "just SSH into it" stops being an option.
+I’m someone who likes digging into how systems work, building things that are actually useful.
 
-When I'm not doing that, I'm usually tinkering with Raspberry Pis, self-hosting, and home-lab stuff. Recently that meant a small air quality monitor: a SEN66 sensor and a Pi Zero W, logging to Grafana so I can check it from my phone.
+By day, I’m a Senior Software Engineer at Oracle, working on fleet orchestration, device lifecycle management, and observability for cloud infrastructure spanning 100+ regions and over a million devices. It’s mostly distributed systems and control planes, plus the unglamorous work of keeping a very large fleet healthy. Before that, I was at Hewlett Packard Enterprise.
 
-Also road trips, travelling, and motorcycling, when I can get away from a screen.
+Outside of work, I like Raspberry Pis, self-hosting, and home-lab tinkering. One recent project was a small air quality monitor: a sensor and an LCD screen wired to a Pi Zero W, feeding data into Grafana so I can check it from my phone. I’m also into long road trips, travelling, and motorcycling.
 
 <!--
 **vinyasns/vinyasns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
