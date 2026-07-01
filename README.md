@@ -1,4 +1,10 @@
-### Hi there 👋
+Hey, I'm Vinyas.
+
+I work on distributed control-plane systems at Oracle — mostly fault-domain-aware rollout pipelines and fleet health for SmartNICs and network switches, at a scale where "just SSH into it" stops being an option.
+
+When I'm not doing that, I'm usually tinkering with Raspberry Pis, self-hosting, and home-lab stuff. Recently that meant a small air quality monitor: a SEN66 sensor and a Pi Zero W, logging to Grafana so I can check it from my phone.
+
+Also road trips, travelling, and motorcycling, when I can get away from a screen.
 
 <!--
 **vinyasns/vinyasns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
